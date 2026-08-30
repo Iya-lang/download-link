@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: #464646;
+}
+
+.style{
+    display: inline-block;
+}
+
+.download-links p {
+  font-weight: bold;
+}
+
+ul a {
+  color: white;
+}
