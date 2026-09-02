@@ -15,3 +15,7 @@ body {
 ul a {
   color:#1a0eb0;
 }
+
+ul a:hover {
+  color: greenyellow;
+}
